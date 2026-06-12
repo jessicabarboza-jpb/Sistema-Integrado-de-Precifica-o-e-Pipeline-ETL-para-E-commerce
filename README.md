@@ -28,7 +28,7 @@ Análise de Documentação e Regras de Negócio
 Lógica Condicional e Validação de Dados
 
 ## Estrutura do Repositório
-/src: Contém o código-fonte em JavaScript (codigo_automacao.gs) desenvolvido para atuar no back-end da aplicação.
+/src: Contém o código-fonte em JavaScript (codigo_automacao.gs) desenvolvido para atuar no back-end da aplicação. 
 /docs: Diretório reservado para diagramas de arquitetura e capturas de tela demonstrando o fluxo do ETL, a interface limpa do front-end e o banco de dados final.
 README.md: Documentação técnica central do projeto.
 
