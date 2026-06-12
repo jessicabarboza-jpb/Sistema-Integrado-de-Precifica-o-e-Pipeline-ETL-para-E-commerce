@@ -1,6 +1,8 @@
 ## Sistema-Integrado-de-Precifica-o-e-Pipeline-ETL-para-E-commerce
 Desenvolvimento de um sistema automatizado para simulação de preços, proteção de margem de lucro e estruturação de dados logísticos em múltiplos canais de venda (Mercado Livre, Amazon e Shein). O projeto integra conceitos de engenharia de dados, modelagem financeira e automação de processos para a tomada de decisão gerencial.
 
+[Clique aqui para assistir à demonstração da arquitetura no YouTube](https://youtu.be/Ng5tV1XNMGs)
+
 ## O Problema de Negócio
 A precificação multicanal no varejo digital sofre com a falta de padronização nas matrizes de frete das diferentes plataformas e com regras de comissionamento dinâmicas. O escopo principal deste projeto consistiu em eliminar a imprecisão no cálculo do divisor de markup, mapear e isolar falsos custos (como subsídios de pagamento) e automatizar o tratamento de tabelas logísticas desestruturadas para assegurar previsibilidade de lucro líquido e escalabilidade operacional.
 
